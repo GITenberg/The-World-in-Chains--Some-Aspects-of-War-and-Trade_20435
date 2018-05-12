@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9295'
     url: http://www.gutenberg.org/2009/agents/9295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20435#The-World-in-Chains--Some-Aspects-of-War-and-Trade
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-01-24'
 gutenberg_type: Text
