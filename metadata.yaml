@@ -1,0 +1,26 @@
+_repo: The-World-in-Chains--Some-Aspects-of-War-and-Trade_20435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mavrogordato, John
+    gutenberg_agent_id: '9295'
+    url: http://www.gutenberg.org/2009/agents/9295
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War -- Economic aspects'
+- !lcsh 'Profiteering'
+- !lcc 'HB'
+title: 'The World in Chains: Some Aspects of War and Trade'
+url: http://www.gutenberg.org/ebooks/20435
